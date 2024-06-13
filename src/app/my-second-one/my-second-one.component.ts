@@ -11,4 +11,5 @@ Name: string = "Shivam Kansara"
 Address: string = "Valsad"
 
 Number: number = 9737084518
+Email: string = "Sykansara@gmail.com"
 }

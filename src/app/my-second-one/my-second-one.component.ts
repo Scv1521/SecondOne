@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class MySecondOneComponent {
 
+Name: string = "Shivam Kansara"
+Address: string = "Valsad"
+
 }
